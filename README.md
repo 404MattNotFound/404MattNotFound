@@ -6,6 +6,9 @@
 
 <div align="center"> - 🔭 I’m currently working full-time on biomedical instruments, merging technology with healthcare. </div>
 <div align="center"> - 🌱 Pursuing a Bachelor’s in Computer Science with a concentration in Software Engineering. </div>
+
+<br/>
+
 <div align="center"> - 🐞 Why do programmers prefer dark mode? Because light attracts bugs! </div>
 
 <br/>
