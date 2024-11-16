@@ -4,11 +4,13 @@
 
 ### <div align="center">👋 I'm Matt, a Full-Time Software Engineer!</div>
 
-- 🔭 I’m currently working full-time on biomedical instruments, merging technology with healthcare.
-- 🌱 Pursuing a Bachelor’s in Computer Science with a concentration in Software Engineering.
-- 🐞 Why do programmers prefer dark mode? Because light attracts bugs!
+<div align="center"> - 🔭 I’m currently working full-time on biomedical instruments, merging technology with healthcare. </div>
+<div align="center"> - 🌱 Pursuing a Bachelor’s in Computer Science with a concentration in Software Engineering. </div>
+<div align="center"> - 🐞 Why do programmers prefer dark mode? Because light attracts bugs! </div>
 
 <br/>
+
+### <div align="center"> My stack </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; margin: 20px 0;">
   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
@@ -24,10 +26,10 @@
   <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
 </div>
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=404MattNotFound&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>
+<br/>
+<br/>
+
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=404MattNotFound&&style=flat-square" align="center" />
 </div>
