@@ -2,10 +2,10 @@
   <img src="https://avatars.githubusercontent.com/u/185431196?s=400&u=f33335c053b1d7e2d9eeb626b613062b853970d3&v=4" align="center" height="150" width="150" />
 </div>
 
-### <div align="center">👋 I'm Matt, a Full-Time Software Engineer!</div>
+### <div align="center"> I'm Matt, a Software Engineer</div>
 
-<div align="center"> - 🔭 I’m currently working full-time on biomedical instruments, merging technology with healthcare. </div>
-<div align="center"> - 🌱 Pursuing a Bachelor’s in Computer Science with a concentration in Software Engineering. </div>
+<div align="center"> - I’m currently working full-time on biomedical instruments, merging technology with healthcare. </div>
+<div align="center"> - Currently wrapping-up a Bachelor’s in Computer Science with a concentration in Software Engineering. </div>
 
 <br/>
 
