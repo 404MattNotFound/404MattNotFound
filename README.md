@@ -1,38 +1,50 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/185431196?s=400&u=f33335c053b1d7e2d9eeb626b613062b853970d3&v=4" align="center" height="150" width="150" />
-</div>
 
-### <div align="center"> I'm Matt, a Software Engineer</div>
+<img src="https://avatars.githubusercontent.com/u/185431196?s=400&u=f33335c053b1d7e2d9eeb626b613062b853970d3&v=4" height="140" width="140" style="border-radius: 50%;" />
 
-<div align="center"> - I’m currently working full-time on biomedical instruments, merging technology with healthcare. </div>
-<div align="center"> - Currently wrapping-up a Bachelor’s in Computer Science with a concentration in Software Engineering. </div>
+### Hi, I'm Matt 👋
 
-<br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=480&lines=Software+Engineer;Building+biomedical+instruments;Bridging+tech+%2B+healthcare" alt="Typing SVG" /></a>
 
-<div align="center"> - 🐞 Why do programmers prefer dark mode? Because light attracts bugs! </div>
-
-<br/>
-
-### <div align="center"> My stack </div>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; margin: 20px 0;">
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>
-  <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-  <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
 </div>
 
 <br/>
-<br/>
 
+## About Me
+
+- 🩺 Working full-time on **biomedical instruments**, merging tech with healthcare
+- 🎓 Wrapping up a **B.S. in Computer Science**, concentration in Software Engineering
+
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=404MattNotFound&&style=flat-square" align="center" />
+
+🐞 Why do programmers prefer dark mode? *Because light attracts bugs!*
+
+</div>
+
+## My Stack
+
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=404MattNotFound&style=flat-square&color=blue" />
 </div>
