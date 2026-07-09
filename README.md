@@ -48,7 +48,3 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=404MattNotFound&style=flat-square&color=blue" />
-</div>
